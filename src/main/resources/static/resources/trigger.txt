@@ -1,0 +1,1 @@
+Trigger for execution of sonar.yml
