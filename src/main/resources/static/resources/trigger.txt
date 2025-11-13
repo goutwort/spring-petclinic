@@ -1,1 +1,1 @@
-Trigger for execution of sonar.yml
+The git-push of this file triggers the execution of sonar.yml.
